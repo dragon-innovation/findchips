@@ -1,0 +1,3878 @@
+{
+  "metadata" : {
+    "queryTime" : "144 ms",
+    "timeStamp" : "2019-06-26 15:31:46 UTC",
+    "message" : "",
+    "debug" : false,
+    "requestData" : {
+      "apiKey" : "secret_token",
+      "part" : "LM741",
+      "limit" : 15,
+      "exactMatch" : false,
+      "startWith" : false,
+      "softWaitTime" : 1000,
+      "hardWaitTime" : 2500,
+      "useHardWait" : false,
+      "hostedOnly" : false,
+      "authorizedOnly" : false
+    },
+    "outgoingRequestMap" : { }
+  },
+  "response" : [ {
+    "distributor" : {
+      "id" : 1538,
+      "name" : "Arrow Electronics",
+      "authorized" : true,
+      "logoUrl" : "https://media.findchips.com/srp/logos/results/1538_fc.gif"
+    },
+    "parts" : [ {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741W/883",
+      "distributorItemNo" : "V37:1799_16967844",
+      "description" : "OP Amp Single GP ±22V 10-Pin CPAK Rail",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 11.08,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 12.41,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 15.5,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 20.67,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 32.63,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t74l9xk&p=LM741W%2F883&s=LM741&h=t0Jogil3yFZZQEC9_oB6wg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 1054,
+      "stockIndicator" : "1054",
+      "rohs" : {
+        "DEFAULT" : "Not compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "availability" : "",
+      "leadTime" : "99 Weeks",
+      "dateCode" : "",
+      "packageType" : "",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741H",
+      "distributorItemNo" : "V39:1801_07282782",
+      "description" : "OP Amp Single GP ±22V 8-Pin TO-99 Box",
+      "price" : [ {
+        "quantity" : 100,
+        "price" : 6.6,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 7.584,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 8.118,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 9.9539,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t74l9xk&p=LM741H&s=LM741&h=fd40kKkyveFz0mEsI1Z91w&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 788,
+      "stockIndicator" : "788",
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "availability" : "",
+      "leadTime" : "6 Weeks",
+      "dateCode" : "1644",
+      "packageType" : "",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=t17l14xk9&p=LM741H&s=LM741&h=4-XXWRg40QzGD4tWWdV4AA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741H/NOPB",
+      "distributorItemNo" : "V39:1801_07282784",
+      "description" : "OP Amp Single GP ±22V 8-Pin TO-99 Box",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 5.1609,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.744,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 6.665,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 8.112,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 9.9539,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t74l9xk&p=LM741H%2FNOPB&s=LM741&h=-oHvSLZ0piyzWgHNmAgapw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 466,
+      "stockIndicator" : "466",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "availability" : "delivery:04-OCT-2019 quantity:34",
+      "leadTime" : "6 Weeks",
+      "dateCode" : "1719",
+      "packageType" : "",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=770tlxk&p=LM741H%2FNOPB&s=LM741&h=n49jQPaSsUGMfoMCsfuOzA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CHNOPB",
+      "distributorItemNo" : "V39:1801_07282780",
+      "description" : "OP Amp Single GP ±18V 8-Pin TO-99 Box",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 5.1609,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.744,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 6.661,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 8.116,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 9.9539,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t74l9xk&p=LM741CHNOPB&s=LM741&h=6a7VdSDrgOjJpxWXJ1GXAw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 227,
+      "stockIndicator" : "227",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "availability" : "",
+      "leadTime" : "6 Weeks",
+      "dateCode" : "1719",
+      "packageType" : "",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741J/883",
+      "distributorItemNo" : "V38:1800_07282786",
+      "description" : "OP Amp Single GP ±22V 8-Pin CDIP Rail",
+      "price" : [ {
+        "quantity" : 10,
+        "price" : 9.099,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 10.2421,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t74l9xk&p=LM741J%2F883&s=LM741&h=Zk72Uz3D2HaM31lXPIbKQw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 105,
+      "stockIndicator" : "105",
+      "rohs" : {
+        "DEFAULT" : "Not compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "availability" : "delivery:15-NOV-2019 quantity:20",
+      "leadTime" : "8 Weeks",
+      "dateCode" : "1841",
+      "packageType" : "",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=770tlxk&p=LM741J%2F883&s=LM741&h=M1HECdWj3R2sC_L92XugYA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741J",
+      "distributorItemNo" : "V39:1801_07282785",
+      "description" : "OP Amp Single GP ±22V 8-Pin CDIP Tube",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 7.017,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 7.645,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 8.419,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 10.053,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 11.041,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t74l9xk&p=LM741J&s=LM741&h=87l9ZQF_O-JCWiYt_v1FWQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 69,
+      "stockIndicator" : "69",
+      "rohs" : {
+        "DEFAULT" : "Not compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "availability" : "",
+      "leadTime" : "6 Weeks",
+      "dateCode" : "1837",
+      "packageType" : "Rail/Tube",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=t17l14xk9&p=LM741J&s=LM741&h=c4iYOHQNz7zpHDQVXUMQSQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CN/NOPB",
+      "distributorItemNo" : "V36:1790_07282781",
+      "description" : "Op Amp Single GP ±18V 8-Pin PDIP Tube",
+      "price" : [ {
+        "quantity" : 5000,
+        "price" : 0.2943,
+        "currency" : "USD"
+      }, {
+        "quantity" : 2520,
+        "price" : 0.3342,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1000,
+        "price" : 0.3525,
+        "currency" : "USD"
+      }, {
+        "quantity" : 520,
+        "price" : 0.4407,
+        "currency" : "USD"
+      }, {
+        "quantity" : 120,
+        "price" : 0.4618,
+        "currency" : "USD"
+      }, {
+        "quantity" : 40,
+        "price" : 0.699,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 0.7839,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 0.9442,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t74l9xk&p=LM741CN%2FNOPB&s=LM741&h=3dscRCvRiT7Mgfj_6pNspA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 52,
+      "stockIndicator" : "52",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "availability" : "delivery:25-JUN-2019 quantity:381",
+      "leadTime" : "6 Weeks",
+      "dateCode" : "1836",
+      "packageType" : "Rail/Tube",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=74tl8xk&p=LM741CN%2FNOPB&s=LM741&h=6HwSiS2yCl2I8HzvkeKxfg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CH",
+      "distributorItemNo" : "V39:1801_07282779",
+      "description" : "OP Amp Single GP ±18V 8-Pin TO-99 Box",
+      "price" : [ {
+        "quantity" : 100,
+        "price" : 6.592,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 7.584,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 8.11,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 9.9539,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t74l9xk&p=LM741CH&s=LM741&h=GoPjd0VUYEfpnuUMOVIS0Q&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 47,
+      "stockIndicator" : "47",
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "availability" : "delivery:25-OCT-2019 quantity:441",
+      "leadTime" : "6 Weeks",
+      "dateCode" : "1640",
+      "packageType" : "Box",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=770tlxk&p=LM741CH&s=LM741&h=4UqxcQC0H1aLsrvQMmHinA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CN/NOPB",
+      "distributorItemNo" : "V39:1801_07282781",
+      "description" : "Op Amp Single GP ±18V 8-Pin PDIP Tube",
+      "price" : [ {
+        "quantity" : 5000,
+        "price" : 0.2943,
+        "currency" : "USD"
+      }, {
+        "quantity" : 2520,
+        "price" : 0.3342,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1000,
+        "price" : 0.3525,
+        "currency" : "USD"
+      }, {
+        "quantity" : 520,
+        "price" : 0.4407,
+        "currency" : "USD"
+      }, {
+        "quantity" : 120,
+        "price" : 0.4618,
+        "currency" : "USD"
+      }, {
+        "quantity" : 40,
+        "price" : 0.699,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 0.7839,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 0.9442,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t74l9xk&p=LM741CN%2FNOPB&s=LM741&h=3dscRCvRiT7Mgfj_6pNspA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 37,
+      "stockIndicator" : "37",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "availability" : "",
+      "leadTime" : "6 Weeks",
+      "dateCode" : "1837",
+      "packageType" : "Rail/Tube",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=74tl8xk&p=LM741CN%2FNOPB&s=LM741&h=6HwSiS2yCl2I8HzvkeKxfg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741C-MWC",
+      "distributorItemNo" : "V38:1800_16018905",
+      "description" : "Op Amp Single GP ±18V Wafer",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t74l9xk&p=LM741C-MWC&s=LM741&h=20RPUqY9ZC0aSNtWxRBmLg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "0",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 99999,
+      "packageMultiple" : 1,
+      "availability" : "",
+      "leadTime" : "8 Weeks",
+      "dateCode" : "",
+      "packageType" : "Wafer",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CN/S7001461",
+      "distributorItemNo" : "V36:1790_17741837",
+      "description" : "LM741CN/S7001461",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t74l9xk&p=LM741CN%2FS7001461&s=LM741&h=E9iUeqT4izVeO5URY-qkJA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "0",
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "availability" : "",
+      "leadTime" : "99 Weeks",
+      "dateCode" : "",
+      "packageType" : "",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741MD8",
+      "distributorItemNo" : "V38:1800_16018904",
+      "description" : "OP Amp Single GP ±22V 7-Pin Die Tray",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t74l9xk&p=LM741MD8&s=LM741&h=ynxS3yzs7MbpyGoxuUSucQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "0",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 400,
+      "packageMultiple" : 1,
+      "availability" : "",
+      "leadTime" : "8 Weeks",
+      "dateCode" : "",
+      "packageType" : "",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741MD8",
+      "distributorItemNo" : "V37:1799_16018904",
+      "description" : "OP Amp Single GP ±22V 7-Pin Die Tray",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t74l9xk&p=LM741MD8&s=LM741&h=ynxS3yzs7MbpyGoxuUSucQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "0",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 400,
+      "packageMultiple" : 1,
+      "availability" : "",
+      "leadTime" : "8 Weeks",
+      "dateCode" : "",
+      "packageType" : "",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CN/NOPB",
+      "distributorItemNo" : "V99:2348_07282781",
+      "description" : "Op Amp Single GP ±18V 8-Pin PDIP Tube",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t74l9xk&p=LM741CN%2FNOPB&s=LM741&h=3dscRCvRiT7Mgfj_6pNspA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "0",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1000,
+      "packageMultiple" : 1,
+      "availability" : "",
+      "leadTime" : "6 Weeks",
+      "dateCode" : "",
+      "packageType" : "Rail/Tube",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=74tl8xk&p=LM741CN%2FNOPB&s=LM741&h=6HwSiS2yCl2I8HzvkeKxfg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741J/883",
+      "distributorItemNo" : "V37:1799_07282786",
+      "description" : "OP Amp Single GP ±22V 8-Pin CDIP Rail",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t74l9xk&p=LM741J%2F883&s=LM741&h=Zk72Uz3D2HaM31lXPIbKQw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "0",
+      "rohs" : {
+        "DEFAULT" : "Not compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1000,
+      "packageMultiple" : 1,
+      "availability" : "delivery:05-NOV-2019 quantity:5",
+      "leadTime" : "8 Weeks",
+      "dateCode" : "",
+      "packageType" : "",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=770tlxk&p=LM741J%2F883&s=LM741&h=M1HECdWj3R2sC_L92XugYA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    } ]
+  }, {
+    "distributor" : {
+      "id" : 1588,
+      "name" : "Digi-Key",
+      "authorized" : true,
+      "logoUrl" : "https://media.findchips.com/srp/logos/results/1588_fc.gif"
+    },
+    "parts" : [ {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CN/NOPB",
+      "distributorItemNo" : "LM741CNNS/NOPB-ND",
+      "description" : "IC OPAMP GP 1 CIRCUIT 8DIP",
+      "price" : [ {
+        "quantity" : 5000,
+        "price" : 0.3132,
+        "currency" : "USD"
+      }, {
+        "quantity" : 2520,
+        "price" : 0.3364,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1000,
+        "price" : 0.3712,
+        "currency" : "USD"
+      }, {
+        "quantity" : 520,
+        "price" : 0.464,
+        "currency" : "USD"
+      }, {
+        "quantity" : 120,
+        "price" : 0.587,
+        "currency" : "USD"
+      }, {
+        "quantity" : 40,
+        "price" : 0.71925,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 0.766,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 0.87,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t77lx2k&p=LM741CN%2FNOPB&s=LM741&h=rBvz4twcdXaTUMopvyjpBw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 47766,
+      "stockIndicator" : "47766<br/>In Stock",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1,
+      "leadTime" : "6 weeks",
+      "packageType" : "Tube",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=74tl8xk&p=LM741CN%2FNOPB&s=LM741&h=6HwSiS2yCl2I8HzvkeKxfg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741H/NOPB",
+      "distributorItemNo" : "LM741H/NOPB-ND",
+      "description" : "IC OPAMP GP 1 CIRCUIT TO99-8",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 5.16915,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.93496,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 6.8156,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 8.232,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 9.11,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t77lx2k&p=LM741H%2FNOPB&s=LM741&h=rq0RCBUvy_CzK9R80DDUnA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 3082,
+      "stockIndicator" : "3082<br/>In Stock",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1,
+      "leadTime" : "6 weeks",
+      "packageType" : "Box",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=770tlxk&p=LM741H%2FNOPB&s=LM741&h=n49jQPaSsUGMfoMCsfuOzA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CH/NOPB",
+      "distributorItemNo" : "LM741CH/NOPB-ND",
+      "description" : "IC OPAMP GP 1 CIRCUIT TO99-8",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 5.16915,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.93496,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 6.8156,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 8.232,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 9.11,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t77lx2k&p=LM741CH%2FNOPB&s=LM741&h=6nLgOIq4ctSsMQGBF-kb5Q&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 2797,
+      "stockIndicator" : "2797<br/>In Stock",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1,
+      "leadTime" : "6 weeks",
+      "packageType" : "Box",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=t17l14xk9&p=LM741CH%2FNOPB&s=LM741&h=n49jQPaSsUGMfoMCsfuOzA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CH",
+      "distributorItemNo" : "296-43454-ND",
+      "description" : "IC OPAMP GP 1 CIRCUIT TO99-8",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 5.16915,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.93496,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 6.8156,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 8.232,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 9.11,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t77lx2k&p=LM741CH&s=LM741&h=Ig87xhlvnWSEezeW7iSlOQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 287,
+      "stockIndicator" : "287<br/>In Stock",
+      "rohs" : {
+        "DEFAULT" : "Not compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1,
+      "leadTime" : "6 weeks",
+      "packageType" : "Box",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=770tlxk&p=LM741CH&s=LM741&h=4UqxcQC0H1aLsrvQMmHinA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741J",
+      "distributorItemNo" : "296-39028-5-ND",
+      "description" : "IC OPAMP GP 1 CIRCUIT 8CERDIP",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 7.02772,
+        "currency" : "USD"
+      }, {
+        "quantity" : 520,
+        "price" : 7.66181,
+        "currency" : "USD"
+      }, {
+        "quantity" : 120,
+        "price" : 8.61292,
+        "currency" : "USD"
+      }, {
+        "quantity" : 40,
+        "price" : 9.7755,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 10.198,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 11.1,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t77lx2k&p=LM741J&s=LM741&h=2TQF2uGnrAU_J7sx1QsAJQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 198,
+      "stockIndicator" : "198<br/>In Stock",
+      "rohs" : {
+        "DEFAULT" : "Not compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1,
+      "leadTime" : "6 weeks",
+      "packageType" : "Tube",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=t17l14xk9&p=LM741J&s=LM741&h=c4iYOHQNz7zpHDQVXUMQSQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741H",
+      "distributorItemNo" : "296-39027-ND",
+      "description" : "IC OPAMP GP 1 CIRCUIT TO99-8",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 5.16915,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.93496,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 6.8156,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 8.232,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 9.11,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t77lx2k&p=LM741H&s=LM741&h=aIpCSFV6_izm-kIIyfyeug&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 169,
+      "stockIndicator" : "169<br/>In Stock",
+      "rohs" : {
+        "DEFAULT" : "Not compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1,
+      "leadTime" : "6 weeks",
+      "packageType" : "Box",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=t17l14xk9&p=LM741H&s=LM741&h=4-XXWRg40QzGD4tWWdV4AA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "ON Semiconductor",
+      "part" : "LM741CN",
+      "distributorItemNo" : "LM741CNFS-ND",
+      "description" : "IC OPAMP GP 1 CIRCUIT 8DIP",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t77lx2k&p=LM741CN&s=LM741&h=qV-Z4XRIeh7SrUiCFWF6zg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "Limited Supply - Call",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 3000,
+      "packageType" : "Tube",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "ON Semiconductor",
+      "part" : "LM741CM",
+      "distributorItemNo" : "LM741CMFS-ND",
+      "description" : "IC OPAMP GP 1 CIRCUIT 8SOIC",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t77lx2k&p=LM741CM&s=LM741&h=PBzIw-bx2qXm7fExpO9h2w&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "Limited Supply - Call",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 8100,
+      "packageType" : "Tube",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "ON Semiconductor",
+      "part" : "LM741CMX",
+      "distributorItemNo" : "LM741CMX-ND",
+      "description" : "IC OPAMP GP 1 CIRCUIT 8SOIC",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t77lx2k&p=LM741CMX&s=LM741&h=E1gr5Au50kARH_4RnJn37Q&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "Limited Supply - Call",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 3000,
+      "packageType" : "Tape & Reel (TR)",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CN",
+      "distributorItemNo" : "LM741CN-ND",
+      "description" : "IC OPAMP GP 1 CIRCUIT 8DIP",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t77lx2k&p=LM741CN&s=LM741&h=ZQQw2FND-lR7KD1e7KjQhg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "Limited Supply - Call",
+      "rohs" : {
+        "DEFAULT" : "Not compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1160,
+      "packageType" : "Tube",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741C-MWC",
+      "distributorItemNo" : "LM741C-MWC-ND",
+      "description" : "IC OPAMP GP 1 CIRCUIT WAFERSALE",
+      "price" : [ {
+        "quantity" : 1137,
+        "price" : 0.352,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t77lx2k&p=LM741C-MWC&s=LM741&h=h2QqOnzqxtT678uj8Scp0w&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "Temporarily Out of Stock",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1137,
+      "leadTime" : "8 weeks",
+      "packageType" : "Bulk",
+      "zeroStockTier" : 1
+    } ]
+  }, {
+    "distributor" : {
+      "id" : 2167609,
+      "name" : "Verical",
+      "authorized" : true,
+      "logoUrl" : "https://media.findchips.com/srp/logos/results/2167609_fc.gif"
+    },
+    "parts" : [ {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741C-MWC",
+      "distributorItemNo" : "27609641",
+      "description" : "Op Amp Single GP ±18V Wafer",
+      "price" : [ {
+        "quantity" : 10001,
+        "price" : 0.3667,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=766tlxk&p=LM741C-MWC&s=LM741&h=WXQqRPDMUSWAuFosSRMuHQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 10001,
+      "stockIndicator" : "10001",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 10001,
+      "packageMultiple" : 10001,
+      "availability" : "",
+      "dateCode" : "",
+      "packageType" : "",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741H",
+      "distributorItemNo" : "29454629",
+      "description" : "OP Amp Single GP ±22V 8-Pin TO-99 Box",
+      "price" : [ {
+        "quantity" : 3000,
+        "price" : 4.8475,
+        "currency" : "USD"
+      }, {
+        "quantity" : 2000,
+        "price" : 5.0391,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1000,
+        "price" : 5.1381,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.4351,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=766tlxk&p=LM741H&s=LM741&h=Yna7ea4rAH2j0wA_r-Hfyw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 10000,
+      "stockIndicator" : "10000",
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 500,
+      "packageMultiple" : 500,
+      "availability" : "",
+      "dateCode" : "",
+      "packageType" : "Box",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=t17l14xk9&p=LM741H&s=LM741&h=4-XXWRg40QzGD4tWWdV4AA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741MD8",
+      "distributorItemNo" : "32749915",
+      "description" : "OP Amp Single GP ±22V 7-Pin Die Tray",
+      "price" : [ {
+        "quantity" : 7200,
+        "price" : 8.3556,
+        "currency" : "USD"
+      }, {
+        "quantity" : 4800,
+        "price" : 8.6899,
+        "currency" : "USD"
+      }, {
+        "quantity" : 2400,
+        "price" : 9.1794,
+        "currency" : "USD"
+      }, {
+        "quantity" : 400,
+        "price" : 9.7275,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=766tlxk&p=LM741MD8&s=LM741&h=V8M1WG4HrtFw42m-zd0S4g&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 10000,
+      "stockIndicator" : "10000",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 400,
+      "packageMultiple" : 400,
+      "availability" : "",
+      "dateCode" : "",
+      "packageType" : "",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741H/NOPB",
+      "distributorItemNo" : "29454543",
+      "description" : "OP Amp Single GP ±22V 8-Pin TO-99 Box",
+      "price" : [ {
+        "quantity" : 5000,
+        "price" : 4.8475,
+        "currency" : "USD"
+      }, {
+        "quantity" : 3000,
+        "price" : 4.8912,
+        "currency" : "USD"
+      }, {
+        "quantity" : 2000,
+        "price" : 5.061,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1000,
+        "price" : 5.2358,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.5018,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=766tlxk&p=LM741H%2FNOPB&s=LM741&h=KiNzrWZqMH6yOB9upLNCJg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 10000,
+      "stockIndicator" : "10000",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 500,
+      "packageMultiple" : 500,
+      "availability" : "",
+      "dateCode" : "",
+      "packageType" : "",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=770tlxk&p=LM741H%2FNOPB&s=LM741&h=n49jQPaSsUGMfoMCsfuOzA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CHNOPB",
+      "distributorItemNo" : "29454872",
+      "description" : "OP Amp Single GP ±18V 8-Pin TO-99 Box",
+      "price" : [ {
+        "quantity" : 2500,
+        "price" : 4.8475,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1002,
+        "price" : 5.0391,
+        "currency" : "USD"
+      }, {
+        "quantity" : 502,
+        "price" : 5.1381,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.4351,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=766tlxk&p=LM741CHNOPB&s=LM741&h=Kwc2_lrFk5O25e_0nqq_7w&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 10000,
+      "stockIndicator" : "10000",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 500,
+      "packageMultiple" : 500,
+      "availability" : "",
+      "dateCode" : "",
+      "packageType" : "Box",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CH",
+      "distributorItemNo" : "29454002",
+      "description" : "OP Amp Single GP ±18V 8-Pin TO-99 Box",
+      "price" : [ {
+        "quantity" : 3000,
+        "price" : 4.8475,
+        "currency" : "USD"
+      }, {
+        "quantity" : 2000,
+        "price" : 5.0391,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1000,
+        "price" : 5.1381,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.4351,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=766tlxk&p=LM741CH&s=LM741&h=ciug0AlmoXxX8xmu5zyU2w&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 7000,
+      "stockIndicator" : "7000",
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 500,
+      "packageMultiple" : 500,
+      "availability" : "",
+      "dateCode" : "",
+      "packageType" : "Box",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=770tlxk&p=LM741CH&s=LM741&h=4UqxcQC0H1aLsrvQMmHinA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741J",
+      "distributorItemNo" : "29454907",
+      "description" : "OP Amp Single GP ±22V 8-Pin CDIP Tube",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 6.7221,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=766tlxk&p=LM741J&s=LM741&h=EMADK_lvA9SeYqOzjTMmIg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 2000,
+      "stockIndicator" : "2000",
+      "rohs" : {
+        "DEFAULT" : "Not compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1000,
+      "packageMultiple" : 1000,
+      "availability" : "",
+      "dateCode" : "",
+      "packageType" : "Rail/Tube",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=t17l14xk9&p=LM741J&s=LM741&h=c4iYOHQNz7zpHDQVXUMQSQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741W/883",
+      "distributorItemNo" : "26071197",
+      "description" : "OP Amp Single GP ±22V 10-Pin CPAK Rail",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 11.08,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 12.41,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 15.5,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 20.67,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 32.63,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=766tlxk&p=LM741W%2F883&s=LM741&h=QNURXuUl6toOJClH75uLzA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 1054,
+      "stockIndicator" : "1054",
+      "rohs" : {
+        "DEFAULT" : "Not compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "availability" : "",
+      "dateCode" : "",
+      "packageType" : "",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741H",
+      "distributorItemNo" : "30171716",
+      "description" : "OP Amp Single GP ±22V 8-Pin TO-99 Box",
+      "price" : [ {
+        "quantity" : 100,
+        "price" : 6.6,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 7.584,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 8.118,
+        "currency" : "USD"
+      }, {
+        "quantity" : 2,
+        "price" : 9.9539,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=766tlxk&p=LM741H&s=LM741&h=Yna7ea4rAH2j0wA_r-Hfyw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 788,
+      "stockIndicator" : "788",
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 2,
+      "packageMultiple" : 1,
+      "availability" : "",
+      "dateCode" : "1644",
+      "packageType" : "Box",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=t17l14xk9&p=LM741H&s=LM741&h=4-XXWRg40QzGD4tWWdV4AA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741H/NOPB",
+      "distributorItemNo" : "33359517",
+      "description" : "OP Amp Single GP ±22V 8-Pin TO-99 Box",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 5.1609,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.744,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 6.665,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 8.112,
+        "currency" : "USD"
+      }, {
+        "quantity" : 2,
+        "price" : 9.9539,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=766tlxk&p=LM741H%2FNOPB&s=LM741&h=KiNzrWZqMH6yOB9upLNCJg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 466,
+      "stockIndicator" : "466",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 2,
+      "packageMultiple" : 1,
+      "availability" : "",
+      "dateCode" : "1719",
+      "packageType" : "",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=770tlxk&p=LM741H%2FNOPB&s=LM741&h=n49jQPaSsUGMfoMCsfuOzA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CHNOPB",
+      "distributorItemNo" : "32013743",
+      "description" : "OP Amp Single GP ±18V 8-Pin TO-99 Box",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 5.548,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 6.1748,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 7.1606,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 8.7247,
+        "currency" : "USD"
+      }, {
+        "quantity" : 2,
+        "price" : 10.7004,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=766tlxk&p=LM741CHNOPB&s=LM741&h=Kwc2_lrFk5O25e_0nqq_7w&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 227,
+      "stockIndicator" : "227",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 2,
+      "packageMultiple" : 1,
+      "availability" : "",
+      "dateCode" : "1719",
+      "packageType" : "Box",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741J/883",
+      "distributorItemNo" : "33105213",
+      "description" : "OP Amp Single GP ±22V 8-Pin CDIP Rail",
+      "price" : [ {
+        "quantity" : 10,
+        "price" : 9.099,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 10.2421,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=766tlxk&p=LM741J%2F883&s=LM741&h=r3wmym0oQUfe4WH5DQ_TkQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 105,
+      "stockIndicator" : "105",
+      "rohs" : {
+        "DEFAULT" : "Not compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "availability" : "",
+      "dateCode" : "1841",
+      "packageType" : "",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=770tlxk&p=LM741J%2F883&s=LM741&h=M1HECdWj3R2sC_L92XugYA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741J",
+      "distributorItemNo" : "31601282",
+      "description" : "OP Amp Single GP ±22V 8-Pin CDIP Tube",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 7.5433,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 8.2184,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 9.0504,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 10.807,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 11.8691,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=766tlxk&p=LM741J&s=LM741&h=EMADK_lvA9SeYqOzjTMmIg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 69,
+      "stockIndicator" : "69",
+      "rohs" : {
+        "DEFAULT" : "Not compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "availability" : "",
+      "dateCode" : "1837",
+      "packageType" : "",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=t17l14xk9&p=LM741J&s=LM741&h=c4iYOHQNz7zpHDQVXUMQSQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CH",
+      "distributorItemNo" : "32642661",
+      "description" : "OP Amp Single GP ±18V 8-Pin TO-99 Box",
+      "price" : [ {
+        "quantity" : 100,
+        "price" : 6.592,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 7.584,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 8.11,
+        "currency" : "USD"
+      }, {
+        "quantity" : 2,
+        "price" : 9.9539,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=766tlxk&p=LM741CH&s=LM741&h=ciug0AlmoXxX8xmu5zyU2w&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 47,
+      "stockIndicator" : "47",
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 2,
+      "packageMultiple" : 1,
+      "availability" : "",
+      "dateCode" : "1640",
+      "packageType" : "",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=770tlxk&p=LM741CH&s=LM741&h=4UqxcQC0H1aLsrvQMmHinA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741H/883",
+      "distributorItemNo" : "33075243",
+      "description" : "Op Amp Single GP ±22V 8-Pin TO-99 Tray",
+      "price" : [ {
+        "quantity" : 1,
+        "price" : 20.2385,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=766tlxk&p=LM741H%2F883&s=LM741&h=wth-f1s8kx9k7KPFT6SaDg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 12,
+      "stockIndicator" : "12",
+      "rohs" : {
+        "DEFAULT" : "Not compliant"
+      },
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "availability" : "",
+      "dateCode" : "1631",
+      "packageType" : "",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=770tlxk&p=LM741H%2F883&s=LM741&h=M1HECdWj3R2sC_L92XugYA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    } ]
+  }, {
+    "distributor" : {
+      "id" : 1562,
+      "name" : "Avnet",
+      "authorized" : true,
+      "logoUrl" : "https://media.findchips.com/srp/logos/results/1562_fc.gif"
+    },
+    "parts" : [ {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CH",
+      "distributorItemNo" : "LM741CH",
+      "description" : "OP Amp Single GP ±18V 8-Pin TO-99 Box - Bulk (Alt: LM741CH)",
+      "price" : [ {
+        "quantity" : 5000,
+        "price" : 4.79,
+        "currency" : "USD"
+      }, {
+        "quantity" : 3000,
+        "price" : 4.89,
+        "currency" : "USD"
+      }, {
+        "quantity" : 2000,
+        "price" : 5.09,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1000,
+        "price" : 5.19,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.49,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=770tlxk&p=LM741CH&s=LM741&h=O_jpOUqD6_rjLWwnqJC_hA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 404,
+      "stockIndicator" : "<span style=white-space:nowrap;><b>Americas</b> - 404</span>",
+      "pbFree" : "",
+      "rohs" : {
+        "DEFAULT" : "Not Compliant"
+      },
+      "custom" : {
+        "AVNET_ID" : "000000000001508794",
+        "GEO_ID" : "1",
+        "SEP_TRACKING" : "https://www.avnet.com/shop/us/products/texas-instruments/lm741ch-3074457345626550082"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 500,
+      "packageMultiple" : 500,
+      "leadTime" : "6 Weeks, 0 Days",
+      "packageType" : "Bulk",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=770tlxk&p=LM741CH&s=LM741&h=4UqxcQC0H1aLsrvQMmHinA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741J/883",
+      "distributorItemNo" : "LM741J/883",
+      "description" : "OP Amp Single GP ±22V 8-Pin CDIP Rail - Rail/Tube (Alt: LM741J/883)",
+      "price" : [ {
+        "quantity" : 400,
+        "price" : 9.19,
+        "currency" : "USD"
+      }, {
+        "quantity" : 240,
+        "price" : 9.39,
+        "currency" : "USD"
+      }, {
+        "quantity" : 160,
+        "price" : 9.79,
+        "currency" : "USD"
+      }, {
+        "quantity" : 80,
+        "price" : 10.09,
+        "currency" : "USD"
+      }, {
+        "quantity" : 40,
+        "price" : 10.59,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=770tlxk&p=LM741J%2F883&s=LM741&h=dz9qYEAh6AcMDOwtOhspCA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 14,
+      "stockIndicator" : "<span style=white-space:nowrap;><b>Americas</b> - 14</span>",
+      "pbFree" : "",
+      "rohs" : {
+        "DEFAULT" : "Not Compliant"
+      },
+      "custom" : {
+        "AVNET_ID" : "000000000000389165",
+        "GEO_ID" : "1",
+        "SEP_TRACKING" : "https://www.avnet.com/shop/us/products/texas-instruments/lm741j-883-3074457345626816673"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 40,
+      "packageMultiple" : 40,
+      "leadTime" : "20 Weeks, 0 Days",
+      "packageType" : "Tube",
+      "imageUrl" : "dip_8.jpg",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=770tlxk&p=LM741J%2F883&s=LM741&h=M1HECdWj3R2sC_L92XugYA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741H/NOPB",
+      "distributorItemNo" : "LM741H/NOPB",
+      "description" : "OP Amp Single GP ±22V 8-Pin TO-99 Box - Boxed Product (Development Kits) (Alt: LM741H/NOPB)",
+      "price" : [ {
+        "quantity" : 5000,
+        "price" : 4.80427,
+        "currency" : "USD"
+      }, {
+        "quantity" : 3000,
+        "price" : 4.94065,
+        "currency" : "USD"
+      }, {
+        "quantity" : 2000,
+        "price" : 5.11215,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1000,
+        "price" : 5.28867,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.55733,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=770tlxk&p=LM741H%2FNOPB&s=LM741&h=zPC-kR-PPYKbf0O3re-hVg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 28,
+      "stockIndicator" : "<span style=white-space:nowrap;><b>Americas</b> - 28</span>",
+      "pbFree" : "",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "custom" : {
+        "AVNET_ID" : "000000000009234652",
+        "GEO_ID" : "1",
+        "SEP_TRACKING" : "https://www.avnet.com/shop/us/products/texas-instruments/lm741h-nopb-3074457345626009949"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 500,
+      "packageMultiple" : 500,
+      "leadTime" : "6 Weeks, 0 Days",
+      "packageType" : "Box",
+      "imageUrl" : "bcy_8.png",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=770tlxk&p=LM741H%2FNOPB&s=LM741&h=n49jQPaSsUGMfoMCsfuOzA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Rochester Electronics LLC",
+      "part" : "LM741",
+      "distributorItemNo" : "LM741",
+      "description" : "- Bulk (Alt: LM741)",
+      "price" : [ ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=770tlxk&p=LM741&s=LM741&h=LkBUSmuJiwxQjjDThpTxpQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "<span style=white-space:nowrap;><b>Americas</b> - 0</span>",
+      "pbFree" : "",
+      "custom" : {
+        "AVNET_ID" : "000000007003787341",
+        "GEO_ID" : "1",
+        "SEP_TRACKING" : "https://www.avnet.com/shop/us/products/rochester-electronics/lm741-3074457345641238868"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "packageType" : "Bulk",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Rochester Electronics LLC",
+      "part" : "LM741D",
+      "distributorItemNo" : "LM741D",
+      "description" : "- Bulk (Alt: LM741D)",
+      "price" : [ ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=770tlxk&p=LM741D&s=LM741&h=kbN2PPhW5ZKabd-Myn-0Uw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "<span style=white-space:nowrap;><b>Americas</b> - 0</span>",
+      "pbFree" : "",
+      "custom" : {
+        "AVNET_ID" : "000000007003787357",
+        "GEO_ID" : "1",
+        "SEP_TRACKING" : "https://www.avnet.com/shop/us/products/rochester-electronics/lm741d-3074457345641238881"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "packageType" : "Bulk",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=770tlxk&p=LM741D&s=LM741&h=BaSv4tPrRYK8HsSfR2hB_Q&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Rochester Electronics LLC",
+      "part" : "LM741AJ",
+      "distributorItemNo" : "LM741AJ",
+      "description" : "- Bulk (Alt: LM741AJ)",
+      "price" : [ ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=770tlxk&p=LM741AJ&s=LM741&h=ES4KU16gGJIIWELgG8VJsQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "<span style=white-space:nowrap;><b>Americas</b> - 0</span>",
+      "pbFree" : "",
+      "rohs" : {
+        "DEFAULT" : "Not Compliant"
+      },
+      "custom" : {
+        "AVNET_ID" : "000000000108314216",
+        "GEO_ID" : "1",
+        "SEP_TRACKING" : "https://www.avnet.com/shop/us/products/rochester-electronics/lm741aj-3074457345641209686"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "packageType" : "Bulk",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=770tlxk&p=LM741AJ&s=LM741&h=T5dxNaV49mosXP4iCzc0PQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Rochester Electronics LLC",
+      "part" : "LM741AH",
+      "distributorItemNo" : "LM741AH",
+      "description" : "- Bulk (Alt: LM741AH)",
+      "price" : [ ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=770tlxk&p=LM741AH&s=LM741&h=LxRzEIMBfL0rVQ2Q7W0BRA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "<span style=white-space:nowrap;><b>Americas</b> - 0</span>",
+      "pbFree" : "",
+      "custom" : {
+        "AVNET_ID" : "000000007003787342",
+        "GEO_ID" : "1",
+        "SEP_TRACKING" : "https://www.avnet.com/shop/us/products/rochester-electronics/lm741ah-3074457345641238880"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "packageType" : "Bulk",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Rochester Electronics LLC",
+      "part" : "LM741CMDC",
+      "distributorItemNo" : "LM741CMDC",
+      "description" : "- Bulk (Alt: LM741CMDC)",
+      "price" : [ ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=770tlxk&p=LM741CMDC&s=LM741&h=v65YKPTE8Gm7rjSy1O_8xg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "<span style=white-space:nowrap;><b>Americas</b> - 0</span>",
+      "pbFree" : "",
+      "custom" : {
+        "AVNET_ID" : "000000007003787351",
+        "GEO_ID" : "1",
+        "SEP_TRACKING" : "https://www.avnet.com/shop/us/products/rochester-electronics/lm741cmdc-3074457345641238710"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "packageType" : "Bulk",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Rochester Electronics LLC",
+      "part" : "LM741CN-G",
+      "distributorItemNo" : "LM741CN-G",
+      "description" : "- Bulk (Alt: LM741CN-G)",
+      "price" : [ ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=770tlxk&p=LM741CN-G&s=LM741&h=IFZY-Thr8I1eOCBr9Hr02w&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "<span style=white-space:nowrap;><b>Americas</b> - 0</span>",
+      "pbFree" : "",
+      "custom" : {
+        "AVNET_ID" : "000000007003787356",
+        "GEO_ID" : "1",
+        "SEP_TRACKING" : "https://www.avnet.com/shop/us/products/rochester-electronics/lm741cn-g-3074457345641238874"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "packageType" : "Bulk",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Rochester Electronics LLC",
+      "part" : "LM741AJ-14",
+      "distributorItemNo" : "LM741AJ-14",
+      "description" : "- Bulk (Alt: LM741AJ-14)",
+      "price" : [ ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=770tlxk&p=LM741AJ-14&s=LM741&h=YQQKchP3K8xEYWfyO8FccA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "<span style=white-space:nowrap;><b>Americas</b> - 0</span>",
+      "pbFree" : "",
+      "custom" : {
+        "AVNET_ID" : "000000007003787344",
+        "GEO_ID" : "1",
+        "SEP_TRACKING" : "https://www.avnet.com/shop/us/products/rochester-electronics/lm741aj-14-3074457345641238915"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "packageType" : "Bulk",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=770tlxk&p=LM741AJ-14&s=LM741&h=BaSv4tPrRYK8HsSfR2hB_Q&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741H/883",
+      "distributorItemNo" : "LM741H/883",
+      "description" : "OP Amp Single GP ±22V 8-Pin TO-99 Tray - Bulk (Alt: LM741H/883)",
+      "price" : [ ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=770tlxk&p=LM741H%2F883&s=LM741&h=WcjM58fyOeKcbjfTtaxFZw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "<span style=white-space:nowrap;><b>Americas</b> - 0</span>",
+      "pbFree" : "",
+      "rohs" : {
+        "DEFAULT" : "Not Compliant"
+      },
+      "custom" : {
+        "AVNET_ID" : "000000000108240727",
+        "GEO_ID" : "1",
+        "SEP_TRACKING" : "https://www.avnet.com/shop/us/products/texas-instruments/lm741h-883-3074457345628517234"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "packageType" : "Bulk",
+      "imageUrl" : "bcy_8.png",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=770tlxk&p=LM741H%2F883&s=LM741&h=M1HECdWj3R2sC_L92XugYA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Rochester Electronics LLC",
+      "part" : "LM741H/883-G",
+      "distributorItemNo" : "LM741H/883-G",
+      "description" : "- Bulk (Alt: LM741H/883-G)",
+      "price" : [ ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=770tlxk&p=LM741H%2F883-G&s=LM741&h=j8dWDZyX-Yeg8UsPEKiniw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "<span style=white-space:nowrap;><b>Americas</b> - 0</span>",
+      "pbFree" : "",
+      "custom" : {
+        "AVNET_ID" : "000000007003787361",
+        "GEO_ID" : "1",
+        "SEP_TRACKING" : "https://www.avnet.com/shop/us/products/rochester-electronics/lm741h-883-g-3074457345641238860"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "packageType" : "Bulk",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Rochester Electronics LLC",
+      "part" : "LM741J-14/883",
+      "distributorItemNo" : "LM741J-14/883",
+      "description" : "- Bulk (Alt: LM741J-14/883)",
+      "price" : [ ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=770tlxk&p=LM741J-14%2F883&s=LM741&h=JaKIUnyUC_fQMGdPobQv_A&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "<span style=white-space:nowrap;><b>Americas</b> - 0</span>",
+      "pbFree" : "",
+      "rohs" : {
+        "DEFAULT" : "Not Compliant"
+      },
+      "custom" : {
+        "AVNET_ID" : "000000000108314141",
+        "GEO_ID" : "1",
+        "SEP_TRACKING" : "https://www.avnet.com/shop/us/products/rochester-electronics/lm741j-14-883-3074457345641207814"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "packageType" : "Bulk",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=770tlxk&p=LM741J-14%2F883&s=LM741&h=2SpEjEIjzDg3LLGmranygA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Rochester Electronics LLC",
+      "part" : "LM741CN-14/A+",
+      "distributorItemNo" : "LM741CN-14/A+",
+      "description" : "- Bulk (Alt: LM741CN-14/A+)",
+      "price" : [ ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=770tlxk&p=LM741CN-14%2FA%2B&s=LM741&h=nL0lQBfQ0A5pGOTiO8Stkg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "<span style=white-space:nowrap;><b>Americas</b> - 0</span>",
+      "pbFree" : "",
+      "custom" : {
+        "AVNET_ID" : "000000007003787355",
+        "GEO_ID" : "1",
+        "SEP_TRACKING" : "https://www.avnet.com/shop/us/products/rochester-electronics/lm741cn-14-a-3074457345641238865"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "packageType" : "Bulk",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=770tlxk&p=LM741CN-14%2FA%2B&s=LM741&h=T5dxNaV49mosXP4iCzc0PQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Rochester Electronics LLC",
+      "part" : "LM741AJ-14/883",
+      "distributorItemNo" : "LM741AJ-14/883",
+      "description" : "- Bulk (Alt: LM741AJ-14/883)",
+      "price" : [ ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=770tlxk&p=LM741AJ-14%2F883&s=LM741&h=RonsXBj_ycTGUNfZm6oc1A&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "<span style=white-space:nowrap;><b>Americas</b> - 0</span>",
+      "pbFree" : "",
+      "custom" : {
+        "AVNET_ID" : "000000007003787345",
+        "GEO_ID" : "1",
+        "SEP_TRACKING" : "https://www.avnet.com/shop/us/products/rochester-electronics/lm741aj-14-883-3074457345641238855"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "packageType" : "Bulk",
+      "zeroStockTier" : -1
+    } ]
+  }, {
+    "distributor" : {
+      "id" : 1561,
+      "name" : "Newark element14",
+      "authorized" : true,
+      "logoUrl" : "https://media.findchips.com/srp/logos/results/1561_fc.gif"
+    },
+    "parts" : [ {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741H .",
+      "distributorItemNo" : "01M8172",
+      "description" : "IC, OP-AMP, 1MHZ, 0.5V/µs, 5mV, 8-TO-99; Op Amp Type:General Purpose; No. of Amplifiers:1; Slew Rate:0.5V/µs; Supply Voltage Range:10V to 44V; Amplifier Case Style:TO-99; No. of Pins:8; Bandwidth:1MHz; Operating Temperature Min:-55°CRoHS Compliant: Yes",
+      "price" : [ {
+        "quantity" : 500,
+        "price" : 6.0,
+        "currency" : "USD"
+      }, {
+        "quantity" : 250,
+        "price" : 6.54,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 6.89,
+        "currency" : "USD"
+      }, {
+        "quantity" : 50,
+        "price" : 7.29,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 7.7,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 8.32,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 9.2,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=74tl8xk&p=LM741H+.&s=LM741&h=kANZydNxWtiatvv2ql7r2Q&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 425,
+      "stockIndicator" : "425",
+      "pbFree" : "",
+      "custom" : {
+        "SEP_TRACKING" : "https://www.newark.com/01M8172"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "dateCode" : "0",
+      "packageType" : "Bulk",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741H/NOPB",
+      "distributorItemNo" : "31T9981",
+      "description" : "Operational Amplifier RoHS Compliant: Yes",
+      "price" : [ {
+        "quantity" : 500,
+        "price" : 6.0,
+        "currency" : "USD"
+      }, {
+        "quantity" : 250,
+        "price" : 6.54,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 6.89,
+        "currency" : "USD"
+      }, {
+        "quantity" : 50,
+        "price" : 7.29,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 7.7,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 8.32,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 9.2,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=74tl8xk&p=LM741H%2FNOPB&s=LM741&h=_cKTTeumAwNoBmWyCraJmw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 24,
+      "stockIndicator" : "24",
+      "pbFree" : "",
+      "custom" : {
+        "SEP_TRACKING" : "https://www.newark.com/31T9981"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "dateCode" : "1",
+      "packageType" : "Bulk",
+      "imageUrl" : "bcy_8.png",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=74tl8xk&p=LM741H%2FNOPB&s=LM741&h=1ZTHxULe8QgCehdX3-OYqA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CH/NOPB .",
+      "distributorItemNo" : "01M8171",
+      "description" : "OP AMP, 1MHZ, 0.5V/s, 5mV, TO-99-8; No. of Amplifiers:1 Amplifier; Bandwidth:1MHz; Slew Rate:0.5V/µs; Supply Voltage Range:10V to 44V; Amplifier Case Style:TO-99; No. of Pins:8Pins; Operating Temperature Min:0°C; Product Range:- RoHS Compliant: Yes",
+      "price" : [ {
+        "quantity" : 500,
+        "price" : 6.0,
+        "currency" : "USD"
+      }, {
+        "quantity" : 250,
+        "price" : 6.54,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 6.89,
+        "currency" : "USD"
+      }, {
+        "quantity" : 50,
+        "price" : 7.29,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 7.7,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 8.32,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 9.2,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=74tl8xk&p=LM741CH%2FNOPB+.&s=LM741&h=dVsSei3wUtDj7kFVEQZXYw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 103,
+      "stockIndicator" : "103",
+      "pbFree" : "",
+      "custom" : {
+        "SEP_TRACKING" : "https://www.newark.com/01M8171"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "dateCode" : "1",
+      "packageType" : "Bulk",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CN/NOPB",
+      "distributorItemNo" : "41K6294",
+      "description" : "OP AMP, 1.5MHZ, 0.5V/s, 6mV, DIP-8; No. of Amplifiers:1 Amplifier; Bandwidth:1.5MHz; Slew Rate:0.5V/µs; Supply Voltage Range:10V to 44V; Amplifier Case Style:DIP; No. of Pins:8Pins; Operating Temperature Min:0°C; Product Range:- RoHS Compliant: Yes",
+      "price" : [ {
+        "quantity" : 10000,
+        "price" : 0.305,
+        "currency" : "USD"
+      }, {
+        "quantity" : 2500,
+        "price" : 0.34,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1000,
+        "price" : 0.376,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 0.422,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 0.469,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 0.727,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 0.879,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=74tl8xk&p=LM741CN%2FNOPB&s=LM741&h=ZAgbNKuHlq33r5H_Nn7big&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 19950,
+      "stockIndicator" : "19950",
+      "pbFree" : "",
+      "custom" : {
+        "SEP_TRACKING" : "https://www.newark.com/41K6294"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "dateCode" : "1",
+      "packageType" : "Bulk",
+      "imageUrl" : "dip_8.jpg",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=74tl8xk&p=LM741CN%2FNOPB&s=LM741&h=6HwSiS2yCl2I8HzvkeKxfg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    } ]
+  }, {
+    "distributor" : {
+      "id" : 1567,
+      "name" : "Allied Electronics & Automation",
+      "authorized" : true,
+      "logoUrl" : "https://media.findchips.com/srp/logos/results/1567_fc.gif"
+    },
+    "parts" : [ {
+      "manufacturer" : "Festo",
+      "part" : "QSML-M7-4-100",
+      "distributorItemNo" : "71108519",
+      "description" : "Fitting; mini; L; PBT; M7 male; 4mm tube conn; 360 deg rotation",
+      "price" : [ {
+        "quantity" : 1,
+        "price" : 3.83,
+        "currency" : "USD"
+      } ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=t7lxk56&p=QSML-M7-4-100&s=LM741&h=sYLu1NBm23_N1pUDTlmS_A&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "0",
+      "pbFree" : "",
+      "rohs" : {
+        "DEFAULT" : "Not Compliant"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "packageType" : "Bulk",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Festo",
+      "part" : "QSMLL-M7-4-100",
+      "distributorItemNo" : "71183881",
+      "description" : "Fitting; PBT; air; 360 deg rotate; L; long; M7 male thrd; 4mm conn",
+      "price" : [ {
+        "quantity" : 100,
+        "price" : 4.79,
+        "currency" : "USD"
+      } ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=t7lxk56&p=QSMLL-M7-4-100&s=LM741&h=8fszApOemXndCwDR5P7aqQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "0",
+      "pbFree" : "",
+      "rohs" : {
+        "DEFAULT" : "Not Compliant"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 100,
+      "packageMultiple" : 1,
+      "packageType" : "Bulk",
+      "zeroStockTier" : -1
+    } ]
+  }, {
+    "distributor" : {
+      "id" : 226391581,
+      "name" : "Texas Instruments",
+      "authorized" : true,
+      "logoUrl" : "https://media.findchips.com/srp/logos/results/226391581_fc.gif"
+    },
+    "parts" : [ {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741H",
+      "description" : "Operational Amplifier",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 4.35,
+        "currency" : "USD"
+      }, {
+        "quantity" : 750,
+        "price" : 4.44,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.13,
+        "currency" : "USD"
+      }, {
+        "quantity" : 250,
+        "price" : 5.9,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 6.32,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 7.05,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 7.54,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 8.39,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t17l14xk9&p=LM741H&s=LM741&h=IuyaGHhD7JrvNzeFHX263w&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 890,
+      "stockIndicator" : "890",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=t17l14xk9&p=LM741H&s=LM741&h=4-XXWRg40QzGD4tWWdV4AA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741J",
+      "description" : "Operational Amplifier",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 6.01,
+        "currency" : "USD"
+      }, {
+        "quantity" : 750,
+        "price" : 6.13,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 7.08,
+        "currency" : "USD"
+      }, {
+        "quantity" : 250,
+        "price" : 8.14,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 8.72,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 9.72,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 10.41,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 11.57,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t17l14xk9&p=LM741J&s=LM741&h=HYUU-OxG2TLftMmpB9_0Cw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 2000,
+      "stockIndicator" : "2000",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "packageType" : "Tube",
+      "imageUrl" : "dip_8.jpg",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=t17l14xk9&p=LM741J&s=LM741&h=c4iYOHQNz7zpHDQVXUMQSQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741H/NOPB",
+      "description" : "Operational Amplifier",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 4.35,
+        "currency" : "USD"
+      }, {
+        "quantity" : 750,
+        "price" : 4.44,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.13,
+        "currency" : "USD"
+      }, {
+        "quantity" : 250,
+        "price" : 5.9,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 6.32,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 7.05,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 7.54,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 8.39,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t17l14xk9&p=LM741H%2FNOPB&s=LM741&h=geXTmpAktolh9VIbhpotIA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 3950,
+      "stockIndicator" : "3950",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "imageUrl" : "bcy_8.png",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=t17l14xk9&p=LM741H%2FNOPB&s=LM741&h=n49jQPaSsUGMfoMCsfuOzA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CH/NOPB",
+      "description" : "Operational Amplifier",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 4.35,
+        "currency" : "USD"
+      }, {
+        "quantity" : 750,
+        "price" : 4.44,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.13,
+        "currency" : "USD"
+      }, {
+        "quantity" : 250,
+        "price" : 5.9,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 6.32,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 7.05,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 7.54,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 8.39,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t17l14xk9&p=LM741CH%2FNOPB&s=LM741&h=jRZV3O8O3x403_AzHR3-QA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 4000,
+      "stockIndicator" : "4000",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "imageUrl" : "bcy_8.png",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=t17l14xk9&p=LM741CH%2FNOPB&s=LM741&h=n49jQPaSsUGMfoMCsfuOzA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CN/NOPB",
+      "description" : "Operational Amplifier",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 0.26,
+        "currency" : "USD"
+      }, {
+        "quantity" : 750,
+        "price" : 0.3,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 0.4,
+        "currency" : "USD"
+      }, {
+        "quantity" : 250,
+        "price" : 0.51,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 0.57,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 0.67,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 0.73,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 0.83,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t17l14xk9&p=LM741CN%2FNOPB&s=LM741&h=mzBfBsQ8ufvz9tv7zCLg4A&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 9338,
+      "stockIndicator" : "9338",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "packageType" : "Tube",
+      "imageUrl" : "dip_8.jpg",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=t17l14xk9&p=LM741CN%2FNOPB&s=LM741&h=n49jQPaSsUGMfoMCsfuOzA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CH",
+      "description" : "Operational Amplifier",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 4.35,
+        "currency" : "USD"
+      }, {
+        "quantity" : 750,
+        "price" : 4.44,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.13,
+        "currency" : "USD"
+      }, {
+        "quantity" : 250,
+        "price" : 5.9,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 6.32,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 7.05,
+        "currency" : "USD"
+      }, {
+        "quantity" : 10,
+        "price" : 7.54,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 8.39,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t17l14xk9&p=LM741CH&s=LM741&h=m8PD6MzqZcXFxbKX6h39-g&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 975,
+      "stockIndicator" : "975",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "imageUrl" : "bcy_8.png",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=t17l14xk9&p=LM741CH&s=LM741&h=30hnOUxWrJ9zct60GRyDUA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    } ]
+  }, {
+    "distributor" : {
+      "id" : 1556,
+      "name" : "Rochester Electronics",
+      "authorized" : true,
+      "logoUrl" : "https://media.findchips.com/srp/logos/results/1556_fc.gif"
+    },
+    "parts" : [ {
+      "manufacturer" : "Harris Semiconductor",
+      "part" : "LM741CN",
+      "description" : "IC OPAMP GP 1.5MHZ 8DIP",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 0.29,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 0.31,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 0.32,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 0.33,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 0.36,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=78tl2xk&p=LM741CN&s=LM741&h=KzoolZoE57bMflg1HeCLxw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 118,
+      "stockIndicator" : "118",
+      "pbFree" : "No",
+      "rohs" : {
+        "DEFAULT" : "Not Compliant"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "imageUrl" : "dip_8.jpg",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=78tl2xk&p=LM741CN&s=LM741&h=s1b2eeRCDphPSQFKUo-r4w&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Intersil Corporation",
+      "part" : "LM741CN",
+      "description" : "IC OPAMP GP 1.5MHZ 8DIP",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 0.29,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 0.31,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 0.32,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 0.33,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 0.36,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=78tl2xk&p=LM741CN&s=LM741&h=uF3vj_rfBWi1c9HOJBkBZw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 177,
+      "stockIndicator" : "177",
+      "pbFree" : "No",
+      "rohs" : {
+        "DEFAULT" : "Not Compliant"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "imageUrl" : "dip_8.jpg",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=78tl2xk&p=LM741CN&s=LM741&h=0_7KnUVZ-HWyohpXlungsQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741CH",
+      "description" : "Operational Amplifier, 1 Func, 6000uV Offset-Max, BIPolar, MBCY8",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 5.04,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.31,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 5.52,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 5.76,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 6.2,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=78tl2xk&p=LM741CH&s=LM741&h=O5jbbnvkBirFPwCJM8uzWg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 7173,
+      "stockIndicator" : "7173",
+      "pbFree" : "No",
+      "rohs" : {
+        "DEFAULT" : "Not Compliant"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "imageUrl" : "bcy_8.png",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=78tl2xk&p=LM741CH&s=LM741&h=Gz44in5jUPe0QdD7JWtEgQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741CH/NOPB",
+      "description" : "Operational Amplifier, 1 Func, 6000uV Offset-Max, BIPolar, MBCY8",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 5.04,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.31,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 5.52,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 5.76,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 6.2,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=78tl2xk&p=LM741CH%2FNOPB&s=LM741&h=oyccnYKDJ7g3NEzd9hCFpw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 11260,
+      "stockIndicator" : "11260",
+      "pbFree" : "No",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "imageUrl" : "bcy_8.png",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=78tl2xk&p=LM741CH%2FNOPB&s=LM741&h=XiBfYquOKAb7NFeNFGV4ZA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741CN",
+      "description" : "IC OPAMP GP 1.5MHZ 8DIP",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 0.29,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 0.31,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 0.32,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 0.33,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 0.36,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=78tl2xk&p=LM741CN&s=LM741&h=anZRzNNB3rfHcIfYQDM4Uw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 9404,
+      "stockIndicator" : "9404",
+      "pbFree" : "No",
+      "rohs" : {
+        "DEFAULT" : "Not Compliant"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "imageUrl" : "dip_8.jpg",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=78tl2xk&p=LM741CN&s=LM741&h=4hGGDrrXJfmTrM7zdLt28g&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741EN",
+      "description" : "Operational Amplifier, 1 Func, 4000uV Offset-Max, BIPolar, PDIP8",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 1.13,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 1.19,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 1.24,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 1.29,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 1.39,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=78tl2xk&p=LM741EN&s=LM741&h=uYzP76oK9lDMVF54q9TzKg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 99,
+      "stockIndicator" : "99",
+      "pbFree" : "No",
+      "rohs" : {
+        "DEFAULT" : "Not Compliant"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "imageUrl" : "dip_8.jpg",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=78tl2xk&p=LM741EN&s=LM741&h=HFvrb9cxaIZqGli2lqyhfQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741H",
+      "description" : "Operational Amplifier, 1 Func, 6000uV Offset-Max, BIPolar, MBCY8",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 5.04,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.31,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 5.52,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 5.76,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 6.2,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=78tl2xk&p=LM741H&s=LM741&h=vLhY06imxtY2_8__-sLn1w&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 19,
+      "stockIndicator" : "19",
+      "pbFree" : "No",
+      "rohs" : {
+        "DEFAULT" : "Not Compliant"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=78tl2xk&p=LM741H&s=LM741&h=ZU6HKsuRGR3IYMpmdDwq4w&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741H/NOPB",
+      "description" : "Operational Amplifier, 1 Func, 5000uV Offset-Max, BIPolar, MBCY8",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 5.04,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.31,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 5.52,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 5.76,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 6.2,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=78tl2xk&p=LM741H%2FNOPB&s=LM741&h=aUy2DS2X9pZQ50o4SmGHng&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 3291,
+      "stockIndicator" : "3291",
+      "pbFree" : "No",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "imageUrl" : "bcy_8.png",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=78tl2xk&p=LM741H%2FNOPB&s=LM741&h=XiBfYquOKAb7NFeNFGV4ZA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CH/NOPB",
+      "description" : "Operational Amplifier, 1 Func, 6000uV Offset-Max, BIPolar, MBCY8",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 5.04,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.31,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 5.52,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 5.76,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 6.2,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=78tl2xk&p=LM741CH%2FNOPB&s=LM741&h=cBhfC2tMc5TXojnZzLYUzQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 8,
+      "stockIndicator" : "8",
+      "pbFree" : "No",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "imageUrl" : "bcy_8.png",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=78tl2xk&p=LM741CH%2FNOPB&s=LM741&h=n49jQPaSsUGMfoMCsfuOzA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741H/NOPB",
+      "description" : "Operational Amplifier, 1 Func, 5000uV Offset-Max, BIPolar, MBCY8",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 5.04,
+        "currency" : "USD"
+      }, {
+        "quantity" : 500,
+        "price" : 5.31,
+        "currency" : "USD"
+      }, {
+        "quantity" : 100,
+        "price" : 5.52,
+        "currency" : "USD"
+      }, {
+        "quantity" : 25,
+        "price" : 5.76,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 6.2,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=78tl2xk&p=LM741H%2FNOPB&s=LM741&h=xmU1SBjHz6CVYCZxTWUy2Q&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 1070,
+      "stockIndicator" : "1070",
+      "pbFree" : "No",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "imageUrl" : "bcy_8.png",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=78tl2xk&p=LM741H%2FNOPB&s=LM741&h=n49jQPaSsUGMfoMCsfuOzA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    } ]
+  }, {
+    "distributor" : {
+      "id" : 2975433,
+      "name" : "Bristol Electronics",
+      "authorized" : false,
+      "logoUrl" : "https://media.findchips.com/srp/logos/results/2975433_fc.gif"
+    },
+    "parts" : [ {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741H/883Q",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=7tlxk71&p=LM741H%2F883Q&s=LM741&h=etg3-ljDKwL0te4CCVGr5w&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 6,
+      "stockIndicator" : "6",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741EN",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=7tlxk71&p=LM741EN&s=LM741&h=Ryzo0TEpLNYIrwuZ7jgdRw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 66,
+      "stockIndicator" : "66",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "imageUrl" : "dip_8.jpg",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=7tlxk71&p=LM741EN&s=LM741&h=o0KKWdHT9LhbmypwtBCAmw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741H/883QS",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=7tlxk71&p=LM741H%2F883QS&s=LM741&h=IEhATt4at5oM8glCNXJvOw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 4,
+      "stockIndicator" : "4",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Signetics",
+      "part" : "LM741CN",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=7tlxk71&p=LM741CN&s=LM741&h=xPfaonm6euBzLDs17s7Ncg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 374,
+      "stockIndicator" : "374",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Motorola Semiconductor Products",
+      "part" : "LM741CN",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=7tlxk71&p=LM741CN&s=LM741&h=tzqOBng6_YBt-xK7YXdtpw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 58,
+      "stockIndicator" : "58",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741CN",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=7tlxk71&p=LM741CN&s=LM741&h=JzX5-NM0h0ixcDg8ZzJvEg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 349,
+      "stockIndicator" : "349",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "imageUrl" : "dip_8.jpg",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=7tlxk71&p=LM741CN&s=LM741&h=SFlrYdCAvXvR4QVK0iZRwQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741H/883C",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=7tlxk71&p=LM741H%2F883C&s=LM741&h=LONenvzeh-iRvH5YSdNQnQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 3,
+      "stockIndicator" : "3",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741H/883C",
+      "price" : [ {
+        "quantity" : 1,
+        "price" : 16.8,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=7tlxk71&p=LM741H%2F883C&s=LM741&h=IVqvpk9hnCglpXKaXLhPtw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 20,
+      "stockIndicator" : "20",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741H883",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=7tlxk71&p=LM741H883&s=LM741&h=Al1UhF1sO34qkUd5pD_iDA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 7,
+      "stockIndicator" : "7",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741CN/NOPB",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=7tlxk71&p=LM741CN%2FNOPB&s=LM741&h=dKFyROiWy2-y8MuNcMnBbQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 2800,
+      "stockIndicator" : "2800",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741J/883",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=7tlxk71&p=LM741J%2F883&s=LM741&h=cKrL2d6-GW-oHrT6UL2axA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 187,
+      "stockIndicator" : "187",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "imageUrl" : "dip_8.jpg",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=7tlxk71&p=LM741J%2F883&s=LM741&h=vWHN-rIllTp4qRk3RD0P1g&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741CH",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=7tlxk71&p=LM741CH&s=LM741&h=BNme8w8oh-aW6QM4K4OGRw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 880,
+      "stockIndicator" : "880",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "imageUrl" : "bcy_8.png",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=7tlxk71&p=LM741CH&s=LM741&h=9LbgSMyN2NkMiqn5-IOIig&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "RCA",
+      "part" : "LM741CH",
+      "price" : [ {
+        "quantity" : 1,
+        "price" : 7.84,
+        "currency" : "USD"
+      }, {
+        "quantity" : 5,
+        "price" : 5.096,
+        "currency" : "USD"
+      }, {
+        "quantity" : 11,
+        "price" : 3.92,
+        "currency" : "USD"
+      }, {
+        "quantity" : 33,
+        "price" : 3.6589,
+        "currency" : "USD"
+      }, {
+        "quantity" : 70,
+        "price" : 3.3971,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=7tlxk71&p=LM741CH&s=LM741&h=bTqCCWq05YVto2LgkY1Z8A&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 102,
+      "stockIndicator" : "102",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741CH",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=7tlxk71&p=LM741CH&s=LM741&h=VpD-3n_CcjOF9v6bzn5gNg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 1,
+      "stockIndicator" : "1",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "imageUrl" : "bcy_8.png",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=7tlxk71&p=LM741CH&s=LM741&h=F6PZrFc3E1airys0L-ZNMA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    } ]
+  }, {
+    "distributor" : {
+      "id" : 2975429,
+      "name" : "Quest Components",
+      "authorized" : false,
+      "logoUrl" : "https://media.findchips.com/srp/logos/results/2975429_fc.gif"
+    },
+    "parts" : [ {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741",
+      "distributorItemNo" : "",
+      "description" : "*** FREE SHIPPING ORDERS OVER $100 *** 741",
+      "price" : [ {
+        "quantity" : 1,
+        "price" : 6.3,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=tlxk778&p=LM741&s=LM741&h=3DcNiINJyw9eJ6KhlFec4w&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 1,
+      "stockIndicator" : "1",
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741AH",
+      "distributorItemNo" : "",
+      "description" : "*** FREE SHIPPING ORDERS OVER $100 *** Operational Amplifier, Single AMP, Bipolar, 8 Pin, Metal Can",
+      "price" : [ {
+        "quantity" : 2,
+        "price" : 8.9,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 10.68,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=tlxk778&p=LM741AH&s=LM741&h=-m3wUGNysc_TIScUq2FRpg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 2,
+      "stockIndicator" : "2",
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741AJ/883B",
+      "distributorItemNo" : "",
+      "description" : "*** FREE SHIPPING ORDERS OVER $100 *** OPERATIONAL AMPLIFIER, 1 FUNC, 4000UV OFFSET-MAX, BIPOLAR, CDIP8",
+      "price" : [ {
+        "quantity" : 3,
+        "price" : 15.225,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 16.3125,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=tlxk778&p=LM741AJ%2F883B&s=LM741&h=ziCUYSwKpUCc5thjDE98pQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 3,
+      "stockIndicator" : "3",
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "RCA",
+      "part" : "LM741CH",
+      "distributorItemNo" : "",
+      "description" : "*** FREE SHIPPING ORDERS OVER $100 *** Operational Amplifier, Single AMP, Bipolar, 8 Pin, Metal Can",
+      "price" : [ {
+        "quantity" : 39,
+        "price" : 4.9,
+        "currency" : "USD"
+      }, {
+        "quantity" : 5,
+        "price" : 5.25,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 10.5,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=tlxk778&p=LM741CH&s=LM741&h=015Uc-tmLOaC-ICs9vl_Sg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 81,
+      "stockIndicator" : "81",
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741CM",
+      "distributorItemNo" : "",
+      "description" : "*** FREE SHIPPING ORDERS OVER $100 *** Operational Amplifier, Single AMP, Bipolar, 8 Pin, Plastic, SOP",
+      "price" : [ {
+        "quantity" : 14,
+        "price" : 18.5,
+        "currency" : "USD"
+      }, {
+        "quantity" : 5,
+        "price" : 20.0,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 22.5,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=tlxk778&p=LM741CM&s=LM741&h=1lYTPKCT5UuBgl51GjskQg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 28,
+      "stockIndicator" : "28",
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741CM",
+      "distributorItemNo" : "",
+      "description" : "*** FREE SHIPPING ORDERS OVER $100 *** Operational Amplifier, Single AMP, Bipolar, 8 Pin, Plastic, SOP",
+      "price" : [ {
+        "quantity" : 12,
+        "price" : 21.09,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 22.2,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=tlxk778&p=LM741CM&s=LM741&h=2-kA1v4kfrsrT4Y1hyL5Wg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 21,
+      "stockIndicator" : "21",
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741CN",
+      "distributorItemNo" : "",
+      "description" : "*** FREE SHIPPING ORDERS OVER $100 *** Operational Amplifier, Single AMP, Bipolar, 8 Pin, Plastic, DIP",
+      "price" : [ {
+        "quantity" : 1,
+        "price" : 0.55,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=tlxk778&p=LM741CN&s=LM741&h=oolHrxbl5aXRf1hzfrhm9A&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 8,
+      "stockIndicator" : "8",
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=78tl2xk&p=LM741CN&s=LM741&h=4hGGDrrXJfmTrM7zdLt28g&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741CN",
+      "distributorItemNo" : "",
+      "description" : "*** FREE SHIPPING ORDERS OVER $100 *** Operational Amplifier, Single AMP, Bipolar, 8 Pin, Plastic, DIP",
+      "price" : [ {
+        "quantity" : 49,
+        "price" : 0.75,
+        "currency" : "USD"
+      }, {
+        "quantity" : 11,
+        "price" : 1.25,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 2.5,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=tlxk778&p=LM741CN&s=LM741&h=oolHrxbl5aXRf1hzfrhm9A&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 127,
+      "stockIndicator" : "127",
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=78tl2xk&p=LM741CN&s=LM741&h=4hGGDrrXJfmTrM7zdLt28g&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741CN",
+      "distributorItemNo" : "",
+      "description" : "*** FREE SHIPPING ORDERS OVER $100 *** Operational Amplifier, Single AMP, Bipolar, 8 Pin, Plastic, DIP",
+      "price" : [ {
+        "quantity" : 56,
+        "price" : 0.825,
+        "currency" : "USD"
+      }, {
+        "quantity" : 16,
+        "price" : 1.375,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 2.2,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=tlxk778&p=LM741CN&s=LM741&h=oolHrxbl5aXRf1hzfrhm9A&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 114,
+      "stockIndicator" : "114",
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=78tl2xk&p=LM741CN&s=LM741&h=4hGGDrrXJfmTrM7zdLt28g&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Harris Semiconductor",
+      "part" : "LM741CN",
+      "distributorItemNo" : "",
+      "description" : "*** FREE SHIPPING ORDERS OVER $100 *** Operational Amplifier, Single AMP, Bipolar, 8 Pin, Plastic, DIP",
+      "price" : [ {
+        "quantity" : 1,
+        "price" : 1.3,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=tlxk778&p=LM741CN&s=LM741&h=xYvmeFQgkufjFmn4fg95jQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 1,
+      "stockIndicator" : "1",
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=78tl2xk&p=LM741CN&s=LM741&h=s1b2eeRCDphPSQFKUo-r4w&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741CN/NOPB",
+      "distributorItemNo" : "",
+      "description" : "*** FREE SHIPPING ORDERS OVER $100 *** OP-AMP, 7500 uV OFFSET-MAX, 1.5 MHz BAND WIDTH, PDIP8",
+      "price" : [ {
+        "quantity" : 4,
+        "price" : 1.17,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 1.56,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=tlxk778&p=LM741CN%2FNOPB&s=LM741&h=x5ogtu5zscHApOEii6_JGw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 8,
+      "stockIndicator" : "8",
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741CN/NOPB",
+      "distributorItemNo" : "",
+      "description" : "*** FREE SHIPPING ORDERS OVER $100 *** OP-AMP, 7500 uV OFFSET-MAX, 1.5 MHz BAND WIDTH, PDIP8",
+      "price" : [ {
+        "quantity" : 206,
+        "price" : 0.78,
+        "currency" : "USD"
+      }, {
+        "quantity" : 52,
+        "price" : 0.975,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 1.95,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=tlxk778&p=LM741CN%2FNOPB&s=LM741&h=end54MjNzKX4dSpVHcpPxA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 600,
+      "stockIndicator" : "600",
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741EJ",
+      "distributorItemNo" : "",
+      "description" : "*** FREE SHIPPING ORDERS OVER $100 *** OPERATIONAL AMPLIFIER, 1 FUNC, 4000UV OFFSET-MAX, BIPOLAR, CDIP8",
+      "price" : [ {
+        "quantity" : 5,
+        "price" : 9.0,
+        "currency" : "USD"
+      }, {
+        "quantity" : 1,
+        "price" : 12.0,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=tlxk778&p=LM741EJ&s=LM741&h=iG8SCkg-vhW5AIAxbt3wWA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 17,
+      "stockIndicator" : "17",
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741H",
+      "distributorItemNo" : "",
+      "description" : "*** FREE SHIPPING ORDERS OVER $100 *** Operational Amplifier, Single AMP, Bipolar, 8 Pin, Metal Can",
+      "price" : [ {
+        "quantity" : 1,
+        "price" : 5.61,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=tlxk778&p=LM741H&s=LM741&h=-BYOC8bHKSiiKYi3EjRFnQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 1,
+      "stockIndicator" : "1",
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=78tl2xk&p=LM741H&s=LM741&h=ZU6HKsuRGR3IYMpmdDwq4w&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741H",
+      "distributorItemNo" : "",
+      "description" : "*** FREE SHIPPING ORDERS OVER $100 *** Operational Amplifier, Single AMP, Bipolar, 8 Pin, Metal Can",
+      "price" : [ {
+        "quantity" : 1,
+        "price" : 11.5,
+        "currency" : "USD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=tlxk778&p=LM741H&s=LM741&h=iAMMaCXsBvX5a7QBGi3ETw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 3,
+      "stockIndicator" : "3",
+      "lastUpdated" : "2019-06-26 15:31:46 UTC",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=78tl2xk&p=LM741H&s=LM741&h=ZU6HKsuRGR3IYMpmdDwq4w&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    } ]
+  }, {
+    "distributor" : {
+      "id" : 2987884,
+      "name" : "RS Components",
+      "authorized" : true,
+      "logoUrl" : "https://media.findchips.com/srp/logos/results/2987884_fc.gif"
+    },
+    "parts" : [ {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741H/NOPB",
+      "distributorItemNo" : "7776717P",
+      "description" : "OP AMPLIFIER OVERLOAD PROTECTION TO-99, BX",
+      "price" : [ {
+        "quantity" : 250,
+        "price" : 4.71,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 125,
+        "price" : 4.96,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 25,
+        "price" : 5.56,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 5,
+        "price" : 6.1,
+        "currency" : "GBP"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t1lx7826k&p=LM741H%2FNOPB&s=LM741&h=68Y7G7U2izxpe3tIzgPBpQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 1376,
+      "stockIndicator" : "1376",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 5,
+      "packageMultiple" : 1,
+      "packageType" : "Box",
+      "imageUrl" : "bcy_8.png",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=t1lx7826k&p=LM741H%2FNOPB&s=LM741&h=n49jQPaSsUGMfoMCsfuOzA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CN/NOPB",
+      "distributorItemNo" : "5359969P",
+      "description" : "LM741 OPERATIONAL AMPLIFIER 1MHZ DIP8, TU",
+      "price" : [ {
+        "quantity" : 5,
+        "price" : 0.666,
+        "currency" : "GBP"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t1lx7826k&p=LM741CN%2FNOPB&s=LM741&h=Z5RGgfiOx6uvX2-iEWWp2w&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 13330,
+      "stockIndicator" : "13330",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 5,
+      "packageMultiple" : 1,
+      "packageType" : "Tube",
+      "imageUrl" : "dip_8.jpg",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=t1lx7826k&p=LM741CN%2FNOPB&s=LM741&h=n49jQPaSsUGMfoMCsfuOzA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CN/NOPB",
+      "distributorItemNo" : "5359969",
+      "description" : "LM741 OPERATIONAL AMPLIFIER 1MHZ DIP8, PK",
+      "price" : [ {
+        "quantity" : 5,
+        "price" : 0.666,
+        "currency" : "GBP"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t1lx7826k&p=LM741CN%2FNOPB&s=LM741&h=oPdDYGoxaRf8Qfn2-aXC6g&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 3280,
+      "stockIndicator" : "3280",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 5,
+      "packageMultiple" : 1,
+      "packageType" : "Package",
+      "imageUrl" : "dip_8.jpg",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=t1lx7826k&p=LM741CN%2FNOPB&s=LM741&h=n49jQPaSsUGMfoMCsfuOzA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CN/NOPB",
+      "distributorItemNo" : "1025716",
+      "description" : "LM741 OPERATIONAL AMPLIFIER 1MHZ DIP8, TU",
+      "price" : [ {
+        "quantity" : 2000,
+        "price" : 0.255,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 800,
+        "price" : 0.303,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 200,
+        "price" : 0.351,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 40,
+        "price" : 0.545,
+        "currency" : "GBP"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t1lx7826k&p=LM741CN%2FNOPB&s=LM741&h=3rpQIODe4ztTiPHBKm-U9g&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 4600,
+      "stockIndicator" : "4600",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 40,
+      "packageMultiple" : 1,
+      "packageType" : "Tube",
+      "imageUrl" : "dip_8.jpg",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=t1lx7826k&p=LM741CN%2FNOPB&s=LM741&h=n49jQPaSsUGMfoMCsfuOzA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741H/NOPB",
+      "distributorItemNo" : "7776717",
+      "description" : "OP AMPLIFIER OVERLOAD PROTECTION TO-99, EA",
+      "price" : [ {
+        "quantity" : 250,
+        "price" : 4.71,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 125,
+        "price" : 4.96,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 25,
+        "price" : 5.56,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 5,
+        "price" : 6.1,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 1,
+        "price" : 7.11,
+        "currency" : "GBP"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=t1lx7826k&p=LM741H%2FNOPB&s=LM741&h=e1lossamQwgto_NiQ1dVxA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 165,
+      "stockIndicator" : "165",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "packageMultiple" : 1,
+      "packageType" : "Bulk",
+      "imageUrl" : "bcy_8.png",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=t1lx7826k&p=LM741H%2FNOPB&s=LM741&h=n49jQPaSsUGMfoMCsfuOzA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    } ]
+  }, {
+    "distributor" : {
+      "id" : 4216255,
+      "name" : "ComS.I.T.",
+      "authorized" : true,
+      "logoUrl" : "https://media.findchips.com/srp/logos/results/4216255_fc.gif"
+    },
+    "parts" : [ {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741J",
+      "price" : [ ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=1tl9x4k80&p=LM741J&s=LM741&h=_JELpF6ps8ZiP8L7-4K-ew&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 60,
+      "stockIndicator" : "60",
+      "pbFree" : "",
+      "rohs" : {
+        "DEFAULT" : "Not Compliant"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "imageUrl" : "dip_8.jpg",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=1tl9x4k80&p=LM741J&s=LM741&h=cZED2thClwZVU25rW_s2sA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741CNNOPB",
+      "price" : [ ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=1tl9x4k80&p=LM741CNNOPB&s=LM741&h=DZovmnuTgffq0hq_QSSN9w&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 110,
+      "stockIndicator" : "110",
+      "pbFree" : "",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "zeroStockTier" : -1
+    } ]
+  }, {
+    "distributor" : {
+      "id" : 1534,
+      "name" : "PUI",
+      "authorized" : true,
+      "logoUrl" : "https://media.findchips.com/srp/logos/results/1534_fc.gif"
+    },
+    "parts" : [ {
+      "part" : "LM741CH",
+      "price" : [ ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=7tlxk63&p=LM741CH&s=LM741&h=PPO8rV1Jcs5xxzUeC7JSmw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 9056,
+      "stockIndicator" : "9056",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "zeroStockTier" : -1
+    } ]
+  }, {
+    "distributor" : {
+      "id" : 121526716,
+      "name" : "Chip 1 Exchange",
+      "authorized" : true,
+      "logoUrl" : "https://media.findchips.com/srp/logos/results/121526716_fc.gif"
+    },
+    "parts" : [ {
+      "part" : "LM741CN",
+      "price" : [ ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=tl10xk862&p=LM741CN&s=LM741&h=jEeCMW3xV9c_AGD1_HMSgQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 341,
+      "stockIndicator" : "341",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "zeroStockTier" : -1
+    }, {
+      "part" : "LM741CM",
+      "price" : [ ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=tl10xk862&p=LM741CM&s=LM741&h=5fA6wyHCE8ZGBH4ojreA6w&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 6254,
+      "stockIndicator" : "6254",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "zeroStockTier" : -1
+    }, {
+      "part" : "LM741H/883C",
+      "price" : [ ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=tl10xk862&p=LM741H%2F883C&s=LM741&h=dsqI97iIFbplO7pDmmSq2g&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 40525,
+      "stockIndicator" : "40525",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "zeroStockTier" : -1
+    }, {
+      "part" : "LM741CH",
+      "price" : [ ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=tl10xk862&p=LM741CH&s=LM741&h=b4BJupv3ymUpAsLJDl-BqA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 544,
+      "stockIndicator" : "544",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "zeroStockTier" : -1
+    }, {
+      "part" : "LM 741",
+      "description" : "INTSTOCK",
+      "price" : [ ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=tl10xk862&p=LM+741&s=LM741&h=kFpsVffWomfQHU5o63V7Fg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 79,
+      "stockIndicator" : "79",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "STMicroelectronics",
+      "part" : "LM741CH",
+      "description" : "INTSTOCK",
+      "price" : [ ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=tl10xk862&p=LM741CH&s=LM741&h=sN0LDwdpYmZXydcyLlIchg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 470,
+      "stockIndicator" : "470",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=tl10xk862&p=LM741CH&s=LM741&h=jFNKEjp1VeVp35nW9L1jig&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "National Semiconductor Corporation",
+      "part" : "LM741CN",
+      "description" : "INTSTOCK",
+      "price" : [ ],
+      "rfqUrl" : "http://api.supplyframe.com/v1/r?d=tl10xk862&p=LM741CN&s=LM741&h=n18R5tlIQA_17w9E7Pwtfg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 1200,
+      "stockIndicator" : "1200",
+      "pbFree" : "",
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=tl10xk862&p=LM741CN&s=LM741&h=5nsk9PIsKfygUD-buhkaZg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    } ]
+  }, {
+    "distributor" : {
+      "id" : 2953375,
+      "name" : "element14 Asia-Pacific",
+      "authorized" : true,
+      "logoUrl" : "https://media.findchips.com/srp/logos/results/2953375_fc.gif"
+    },
+    "parts" : [ {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741J .",
+      "distributorItemNo" : "2323350",
+      "description" : "OP-AMP, 1MHZ, 0.5V/US, DIP-8",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 10.74,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 520,
+        "price" : 11.7,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 120,
+        "price" : 13.15,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 40,
+        "price" : 14.93,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 10,
+        "price" : 15.57,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 1,
+        "price" : 16.95,
+        "currency" : "SGD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=745tlxk&p=LM741J+.&s=LM741&h=JPC5kPSJ70QYYkQelmDVZw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "0",
+      "pbFree" : "",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "custom" : {
+        "SEP_TRACKING" : "https://www.farnell.com/grh?mpn=2323350"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741H/NOPB",
+      "distributorItemNo" : "2347494",
+      "description" : "Operational Amplifier",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 7.9,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 500,
+        "price" : 9.06,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 100,
+        "price" : 10.41,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 10,
+        "price" : 12.57,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 1,
+        "price" : 13.91,
+        "currency" : "SGD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=745tlxk&p=LM741H%2FNOPB&s=LM741&h=jqR6YKvB6JWOBvIGKskJKw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 24,
+      "stockIndicator" : "24",
+      "pbFree" : "",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "custom" : {
+        "SEP_TRACKING" : "https://www.farnell.com/grh?mpn=2347494"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "imageUrl" : "bcy_8.png",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=745tlxk&p=LM741H%2FNOPB&s=LM741&h=1ZTHxULe8QgCehdX3-OYqA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CH/NOPB",
+      "distributorItemNo" : "1216154",
+      "description" : "OP AMP, COMPENSATED, H08C-8, 741",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 7.95,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 500,
+        "price" : 9.13,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 250,
+        "price" : 9.97,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 100,
+        "price" : 10.49,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 25,
+        "price" : 11.71,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 10,
+        "price" : 12.67,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 1,
+        "price" : 14.01,
+        "currency" : "SGD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=745tlxk&p=LM741CH%2FNOPB&s=LM741&h=YWAQw_Aw5-TA8hjjhJikvQ&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 0,
+      "stockIndicator" : "0",
+      "pbFree" : "",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "custom" : {
+        "SEP_TRACKING" : "https://www.farnell.com/grh?mpn=1216154"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "imageUrl" : "bcy_8.png",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=745tlxk&p=LM741CH%2FNOPB&s=LM741&h=1ZTHxULe8QgCehdX3-OYqA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CN/NOPB .",
+      "distributorItemNo" : "1523833",
+      "description" : "IC, OP-AMP COMPENSATED, TUBE40",
+      "price" : [ {
+        "quantity" : 625,
+        "price" : 17.83,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 250,
+        "price" : 18.57,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 125,
+        "price" : 19.3,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 50,
+        "price" : 20.73,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 25,
+        "price" : 22.89,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 1,
+        "price" : 28.52,
+        "currency" : "SGD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=745tlxk&p=LM741CN%2FNOPB+.&s=LM741&h=WUv6PZ_1mmL_43XsEVfR3g&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 27,
+      "stockIndicator" : "27",
+      "pbFree" : "",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "custom" : {
+        "SEP_TRACKING" : "https://www.farnell.com/grh?mpn=1523833"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CN/NOPB .",
+      "distributorItemNo" : "9486780",
+      "description" : "IC, OP AMP, COMPENSATED, DIP8, 741",
+      "price" : [ {
+        "quantity" : 1000,
+        "price" : 0.528,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 500,
+        "price" : 0.581,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 250,
+        "price" : 0.672,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 100,
+        "price" : 0.797,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 25,
+        "price" : 1.08,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 1,
+        "price" : 1.28,
+        "currency" : "SGD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=745tlxk&p=LM741CN%2FNOPB+.&s=LM741&h=syrCDPqXuu4BiASaw7dbOg&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 10661,
+      "stockIndicator" : "10661",
+      "pbFree" : "",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "custom" : {
+        "SEP_TRACKING" : "https://www.farnell.com/grh?mpn=9486780"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CN/NOPB.",
+      "distributorItemNo" : "1179754",
+      "description" : "OP AMP, 1.5MHZ, 0.5V/s, 6mV, DIP-8",
+      "price" : [ {
+        "quantity" : 25000,
+        "price" : 0.446,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 10000,
+        "price" : 0.465,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 5000,
+        "price" : 0.483,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 2000,
+        "price" : 0.519,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 1000,
+        "price" : 0.573,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 100,
+        "price" : 0.713,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 10,
+        "price" : 1.12,
+        "currency" : "SGD"
+      }, {
+        "quantity" : 1,
+        "price" : 1.34,
+        "currency" : "SGD"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=745tlxk&p=LM741CN%2FNOPB.&s=LM741&h=FsYOTZnaZZCmIoKUktKhLw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 20272,
+      "stockIndicator" : "20272",
+      "pbFree" : "",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "custom" : {
+        "SEP_TRACKING" : "https://www.farnell.com/grh?mpn=1179754"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "zeroStockTier" : -1
+    } ]
+  }, {
+    "distributor" : {
+      "id" : 1595,
+      "name" : "Farnell element14",
+      "authorized" : true,
+      "logoUrl" : "https://media.findchips.com/srp/logos/results/1595_fc.gif"
+    },
+    "parts" : [ {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741H",
+      "distributorItemNo" : "1216155",
+      "description" : "OP AMP, COMPENSATED, TO99-8, 741",
+      "price" : [ {
+        "quantity" : 100,
+        "price" : 5.21,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 50,
+        "price" : 5.51,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 25,
+        "price" : 5.81,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 10,
+        "price" : 6.29,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 1,
+        "price" : 7.51,
+        "currency" : "GBP"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=758tlxk&p=LM741H&s=LM741&h=Yl12OcYCzCrbyJhwrO1msw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 2523,
+      "stockIndicator" : "2523",
+      "pbFree" : "",
+      "custom" : {
+        "SEP_TRACKING" : "http://grh.premierfarnell.com/grh.aspx?mid=1001023&sku=LM741H&CMP=GRHB-FINDCHIPS-1001023"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=758tlxk&p=LM741H&s=LM741&h=O0OkNC1IgMJblvNQ65jt1A&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741H/NOPB",
+      "distributorItemNo" : "2347494",
+      "description" : "Operational Amplifier",
+      "price" : [ {
+        "quantity" : 100,
+        "price" : 6.04,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 50,
+        "price" : 6.4,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 25,
+        "price" : 6.76,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 10,
+        "price" : 7.3,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 1,
+        "price" : 8.07,
+        "currency" : "GBP"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=758tlxk&p=LM741H%2FNOPB&s=LM741&h=bVJSFKvQamc2Fvx4boWjsw&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 24,
+      "stockIndicator" : "24",
+      "pbFree" : "",
+      "rohs" : {
+        "DEFAULT" : "Compliant"
+      },
+      "custom" : {
+        "SEP_TRACKING" : "http://grh.premierfarnell.com/grh.aspx?mid=1001023&sku=LM741H%2fNOPB&CMP=GRHB-FINDCHIPS-1001023"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "imageUrl" : "bcy_8.png",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=758tlxk&p=LM741H%2FNOPB&s=LM741&h=1ZTHxULe8QgCehdX3-OYqA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CH/NOPB",
+      "distributorItemNo" : "1216154",
+      "description" : "OP AMP, COMPENSATED, H08C-8, 741",
+      "price" : [ {
+        "quantity" : 100,
+        "price" : 5.21,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 50,
+        "price" : 5.51,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 25,
+        "price" : 5.81,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 10,
+        "price" : 6.29,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 1,
+        "price" : 7.51,
+        "currency" : "GBP"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=758tlxk&p=LM741CH%2FNOPB&s=LM741&h=xuy3IkW9TeVgVumiFvuDgA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 549,
+      "stockIndicator" : "549",
+      "pbFree" : "",
+      "custom" : {
+        "SEP_TRACKING" : "http://grh.premierfarnell.com/grh.aspx?mid=1001023&sku=LM741CH%2fNOPB&CMP=GRHB-FINDCHIPS-1001023"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "imageUrl" : "bcy_8.png",
+      "datasheetUrl" : "http://api.supplyframe.com/v1/s?d=758tlxk&p=LM741CH%2FNOPB&s=LM741&h=1ZTHxULe8QgCehdX3-OYqA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "zeroStockTier" : -1
+    }, {
+      "manufacturer" : "Texas Instruments",
+      "part" : "LM741CN/NOPB .",
+      "distributorItemNo" : "9486780",
+      "description" : "IC, OP AMP, COMPENSATED, DIP8, 741",
+      "price" : [ {
+        "quantity" : 500,
+        "price" : 0.289,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 250,
+        "price" : 0.322,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 100,
+        "price" : 0.354,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 50,
+        "price" : 0.55,
+        "currency" : "GBP"
+      }, {
+        "quantity" : 1,
+        "price" : 0.629,
+        "currency" : "GBP"
+      } ],
+      "buyNowUrl" : "http://api.supplyframe.com/v1/t?d=758tlxk&p=LM741CN%2FNOPB+.&s=LM741&h=MJyxFqFWp7AdQ3J4enaELA&currency=&h_crc=ef9bb34fc1257123abb7a31790507a4e",
+      "stock" : 19333,
+      "stockIndicator" : "19333",
+      "pbFree" : "",
+      "custom" : {
+        "SEP_TRACKING" : "http://grh.premierfarnell.com/grh.aspx?mid=1001023&sku=LM741CN%2fNOPB+.&CMP=GRHB-FINDCHIPS-1001023"
+      },
+      "lastUpdated" : "+2019-06-26 15:00:00 UTC",
+      "minimumQuantity" : 1,
+      "zeroStockTier" : -1
+    } ]
+  } ]
+}

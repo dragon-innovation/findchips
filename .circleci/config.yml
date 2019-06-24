@@ -1,0 +1,67 @@
+version: 2
+
+jobs:
+  build:
+    parallelism: 6
+    working_directory: ~/findchips
+
+    docker:
+      - image: circleci/ruby:2.6.3-node-browsers
+        environment:
+          CONTINUOUS_INTEGRATION: true
+          COVERAGE: 1
+          CAPYBARA_WAIT_TIME: 10
+      # NOTE Using Redis 3.2 to match Production: Heroku does not currently support Redis 4
+      - image: redis:3.2.12-alpine
+
+    steps:
+      - checkout
+
+      - run:
+          name: Configure Bundler
+          command: |
+            echo 'export BUNDLER_VERSION=$(cat Gemfile.lock | tail -1 | tr -d " ")' >> $BASH_ENV
+            source $BASH_ENV
+            gem install bundler
+
+      # Bundle install with caching
+      - restore_cache:
+          name: Restore bundler cache
+          keys:
+            - findchips-bundler-{{ arch }}-{{ checksum "Gemfile.lock" }}-{{ checksum ".circleci/config.yml" }}
+      - run:
+          name: Bundle install
+          command: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
+
+      # Specify chromedriver version using chromedriver-helper
+      # Added after problems with chromedriver 2.38. See https://app.clubhouse.io/dragon/story/4910
+      # - run:
+      #     name: Install chromedriver with intended version
+      #     command: bundle exec chromedriver-update 2.37
+
+      - save_cache:
+          name: Store bundler cache
+          key: findchips-bundler-{{ arch }}-{{ checksum "Gemfile.lock" }}-{{ checksum ".circleci/config.yml" }}
+          paths:
+            - vendor/bundle
+
+      - run:
+          name: Parallel RSpec
+          command: |
+            SPEC_LIST=$(circleci tests glob "spec/**/*_spec.rb" | circleci tests split --split-by=timings)
+            echo $SPEC_LIST
+
+            bundle exec rspec --profile 10 \
+                              --format RspecJunitFormatter \
+                              --out /tmp/test-results/rspec.xml \
+                              --format progress \
+                              --no-color \
+                              $SPEC_LIST
+
+      # Small high-level summary shown under Test Summary
+      - store_test_results:
+          path: /tmp/test-results
+
+      - store_artifacts:
+          path: coverage
+
