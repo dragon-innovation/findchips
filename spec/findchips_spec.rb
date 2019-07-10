@@ -1,6 +1,10 @@
 RSpec.describe Findchips do
   describe '.auth_token' do
     it 'defaults to nil' do
+      expect(true).to be(false)
+    end
+
+    it 'defaults to nil' do
       expect(Findchips.auth_token).to be_nil
     end
 
